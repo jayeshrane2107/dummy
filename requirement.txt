@@ -1,0 +1,17 @@
+CodeCompare
+pro	count(0)
+pro	avg(reactiontime) when scroe is 1
+
+
+GrillMaster
+normal	difficulty col
+control used	
+"75-100 good
+below 75
+above 100 bad"		
+percentage count less than 100	
+
+
+Pincode
+(last value of level of round ) -1
+3 mistakes on level terminate
